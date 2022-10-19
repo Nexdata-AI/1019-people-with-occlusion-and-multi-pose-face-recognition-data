@@ -1,7 +1,10 @@
 # 1019-people-with-occlusion-and-multi-pose-face-recognition-data
-https://www.datatang.ai/datasets/1067
+
+
 ## Description
 1,019 people with occlusion and multi-pose face recognition data, each person has 36 images: one ID image (desensitized), 7 multi-posed faces without wearing mask、7 multi-posed faces of wearing mask、7 multi-posed faces of wearing glasses 、7 multi-posed faces of wearing hat and 7 multi-posed faces of wearing sunglasses. This data can be applied to computer vision tasks such as occluded face detection and recognition.
+
+For more details, please refer to the link: https://bit.ly/3SfdN4z
 
 ## Data size
 1,019 people, 36 images per person
@@ -29,3 +32,6 @@ cellphone
 
 ## Accuracy
 the accuracy of labels of occlusion type, gender, race and age are more than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
