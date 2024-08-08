@@ -4,7 +4,7 @@
 ## Description
 1,019 people with occlusion and multi-pose face recognition data, each person has 36 images: one ID image (desensitized), 7 multi-posed faces without wearing mask、7 multi-posed faces of wearing mask、7 multi-posed faces of wearing glasses 、7 multi-posed faces of wearing hat and 7 multi-posed faces of wearing sunglasses. This data can be applied to computer vision tasks such as occluded face detection and recognition.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1067?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets?source=Github
 
 
 ## Data size
